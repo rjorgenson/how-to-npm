@@ -2,7 +2,7 @@
   "name": "@rjorgenson/how-to-npm",
   "version": "1.0.0",
   "description": "how-to-npm test package",
-  "repository": "",
+  "repository": "https://github.com/rjorgenson/how-to-npm.git",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
